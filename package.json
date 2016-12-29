@@ -1,0 +1,16 @@
+{
+  "name": "whatnuxt",
+  "version": "1.0.0",
+  "description": "基于Nuxt.js的服务端渲染Demo",
+  "author": "ZhangZefu <447833339@qq.com>",
+  "private": true,
+  "dependencies": {
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  }
+}
