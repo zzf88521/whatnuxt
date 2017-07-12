@@ -2,7 +2,7 @@
 
 > 基于Nuxt.js的服务端渲染Demo
 
-###访问地址: localhost:3000
+### 访问地址: localhost:3000
 
 ## Build Setup
 
