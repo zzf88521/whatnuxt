@@ -1,4 +1,4 @@
-# whatnuxt
+# vuejs 服务端渲染
 
 > 基于Nuxt.js的服务端渲染Demo
 
